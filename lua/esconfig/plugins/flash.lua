@@ -33,7 +33,6 @@ return {
 		flash.setup({
 			modes = {
 				search = {
-					enabled = true,
 					highlight = {
 						backdrop = true,
 					},
